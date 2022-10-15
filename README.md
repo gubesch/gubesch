@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gubesch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Christian @gubesch
+- 👀 I’m interested in everythin in IT
+- 🌱 I’m currently learning DevSecOps
+- 💞️ I’m looking to collaborate on security projects
+- 📫 How to reach me https://linkedin.com/in/christian-gubesch/
 
 <!---
 gubesch/gubesch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
